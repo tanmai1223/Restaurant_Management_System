@@ -12,8 +12,8 @@ This repository brings together three independently deployed applications — **
 | Module | Description | Deployment |
 |---------|--------------|-------------|
 | 👤 **User App** | Interactive food ordering interface for customers with category filtering, infinite scrolling, and smooth checkout. | [🔗 Live Demo]([#](https://usersappt.netlify.app/)) |
-| 🍴 **Restaurant Dashboard** | Real-time restaurant control panel with analytics, table management, chef assignments, and order tracking. | [🔗 Live Demo]([#](https://restaurantpp.netlify.app/)) |
-| ⚙️ **Backend API** | Node.js + Express server managing data flow between the restaurant and user apps, connected to MongoDB. | [🔗 API Endpoint]([#](https://hotelbackend-7ibf.onrender.com)) |
+| 🍴 **Restaurant Dashboard** | Real-time restaurant control panel with analytics, table management, chef assignments, and order tracking. | [🔗 Live Demo](https://restaurantpp.netlify.app/) |
+| ⚙️ **Backend API** | Node.js + Express server managing data flow between the restaurant and user apps, connected to MongoDB. | [🔗 API Endpoint](https://hotelbackend-7ibf.onrender.com) |
 
 ---
 
